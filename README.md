@@ -144,7 +144,7 @@ Este projeto é destinado para fins acadêmicos e educacionais.
 
 ---
 
-<h2>👨‍💻 Desenvolvedor</h2>
+<h2> 👨‍💻 Desenvolvedor</h2>
 <i>Projeto desenvolvido por estudante do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
 <br><br>
 
