@@ -143,24 +143,28 @@ Adicione aqui prints das telas do sistema:
 Este projeto é destinado para fins acadêmicos e educacionais.
 
 ---
+<div align="center">
 
-<h2> 👨‍💻 Desenvolvedor</h2>
+## 💻 Desenvolvedor
+
 <i>Projeto desenvolvido por estudante do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
+
 <br><br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Lucxzhhh">
-        <img src="https://github.com/user-attachments/assets/b0f08778-8ee4-4370-a426-2c43b95f3b1a" width="140"><br>
-        <b>Lucxzhhh</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Lucxzhhh">
+  <img src="https://github.com/user-attachments/assets/b0f08778-8ee4-4370-a426-2c43b95f3b1a" width="140" alt="Lucxzhhh">
+</a>
 
-<br>
+<br><br>
 
-<div align="center">
+### Lucxzhhh
+
+<a href="https://github.com/Lucxzhhh">
+  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
+
 ⭐ Se gostou do projeto, considere deixar uma estrela no repositório.
+
 </div>
